@@ -1,0 +1,48 @@
+
+.box {
+      background-color: #f8fffb;
+      border: 4px groove gray;
+      border-radius: 20px;
+      width: 50%;
+      font-size: 22px;
+      font-family: cursive;
+      text-align: center;
+      height: auto;
+      margin: auto;
+  }
+
+.author {
+  font-weight: bold;
+  color: gray;
+  font-family: fantasy;;
+}
+
+
+.quoteBox {
+    height: 15px;
+    width: 200px;
+    border: 1px groove green;
+    border-radius: 5px;
+}
+
+.filterBox {
+    height: 15px;
+    width: 200px;
+    border: 1px groove red;
+    border-radius: 5px;
+    float: right;
+}
+
+.deleteButton {
+    background-image: url(http://image.flaticon.com/icons/png/512/69/69324.png);
+    height: 20px;
+    background-size: cover;
+    width: 20px;
+    border-radius: 100%;
+    background-color: transparent;
+}
+
+.boxHolder {
+    width: 50%;
+    margin: auto;
+}
